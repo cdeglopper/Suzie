@@ -1,0 +1,52 @@
+body {
+	font-family: 'Bitter', serif;
+	color: #161C1C;
+	padding: 0 30px 0 30px;
+	margin: 30px;
+}
+h1 {
+	font-size: 40px;
+}
+h2 {
+	text-align: center;
+}
+nav {
+	background-color: #C0F7FA
+}
+nav li {
+	text-decoration: none;
+	margin-right: 50px;
+	display: inline;
+	font-weight: bold;
+}
+#schedule {
+	background-color: #C0F7FA;
+}
+#schedule table {
+	padding: 10px;
+	border-spacing: 10px;
+	width: 100px;
+	text-align: center;
+}
+#nav {
+	font-weight: bold;
+}
+#blurb {
+	text-align: center;
+}
+footer {
+	text-align: right;
+}
+#contact {
+	background-color: #C0F7FA
+}
+.images {
+	text-align: center;
+}
+#logo {
+	border: 5px dashed #C0F7FA;
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 50px;
+}
